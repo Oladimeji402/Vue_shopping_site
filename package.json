@@ -1,0 +1,29 @@
+{
+  "name": "shopping-site",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@supabase/supabase-js": "^2.47.10",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue-3": "^0.3.12",
+    "dotenv": "^16.4.7",
+    "sweetalert2": "^11.6.13",
+    "vanilla-tilt": "^1.8.1",
+    "vue": "^3.5.12",
+    "vue-animate-onscroll": "^1.0.8",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.10",
+    "vite-plugin-vue-devtools": "^7.5.4"
+  }
+}
