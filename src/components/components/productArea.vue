@@ -74,7 +74,7 @@ export default {
         {
           id: 1,
           name: "Stylish T-Shirt",
-          image: "/src/assets/images/StylishTop.png",
+          image: "./src/assets/images/StylishTop.png",
           price: 88000,
           oldPrice: 120000,
           discount: 30,
@@ -83,7 +83,7 @@ export default {
         {
           id: 2,
           name: "Casual Top",
-          image: "/src/assets/images/top.png",
+          image: "./src/assets/images/top.png",
           price: 68000,
           oldPrice: null,
           discount: null,
@@ -92,7 +92,7 @@ export default {
         {
           id: 3,
           name: "Set of Pjamas for men",
-          image: "/src/assets/images/Pjmask.png",
+          image: "./src/assets/images/Pjmask.png",
           price: 98000,
           oldPrice: null,
           discount: null,
